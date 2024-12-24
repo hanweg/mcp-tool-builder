@@ -21,6 +21,14 @@ build-backend = "hatchling.build"
 [tool.hatch.version]
 path = "src/mcp_tool_builder/__about__.py"
 
+[tool.hatch.build]
+exclude = [
+    ".git",
+    ".gitignore",
+    "*.pyc",
+    "__pycache__"
+]
+
 [tool.hatch.build.targets.wheel]
 packages = ["src/mcp_tool_builder"]
 
