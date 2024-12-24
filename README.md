@@ -45,5 +45,5 @@ Add to `claude_desktop_config.json`:
 }
 ```
 ![Screenshot 2024-12-24 105318](https://github.com/user-attachments/assets/c1bf9293-7b66-4600-99a0-bf96692e58d1)
-![Screenshot 2024-12-24 105318](https://github.com/user-attachments/assets/8685e298-34a1-41dd-a54c-997779802112)
 
+![image](https://github.com/user-attachments/assets/0c5a78ea-4c22-48d9-bad2-1392e59ec544)
