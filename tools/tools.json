@@ -1,0 +1,18 @@
+[
+    {
+        "name": "get_bitcoin_price",
+        "description": "Gets current Bitcoin price in USD from CoinGecko API",
+        "parameters": {},
+        "file": "get_bitcoin_price.py",
+        "function": "get_bitcoin_price"
+    },
+    {
+        "name": "get_temperature",
+        "description": "Gets current temperature for a US ZIP code using the National Weather Service API",
+        "parameters": {
+            "zip_code": "string"
+        },
+        "file": "get_temperature.py",
+        "function": "get_temperature"
+    }
+]
