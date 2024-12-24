@@ -7,12 +7,12 @@
         "function": "get_bitcoin_price"
     },
     {
-        "name": "get_temperature",
-        "description": "Gets current temperature for a US ZIP code using the National Weather Service API",
+        "name": "get_weather_forecast",
+        "description": "Retrieves weather forecast for a given ZIP code using NWS API",
         "parameters": {
             "zip_code": "string"
         },
-        "file": "get_temperature.py",
-        "function": "get_temperature"
+        "file": "get_weather_forecast.py",
+        "function": "get_weather_forecast"
     }
 ]
