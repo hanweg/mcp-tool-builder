@@ -11,7 +11,7 @@ An MCP server that empowers LLMs to dynamically create new tools through MCP cli
 
 ## Example tools included at installation
 - get_bitcoin_price: Fetches current Bitcoin price from CoinGecko
-- get_temperature: Gets temperature for US ZIP codes
+- get_weather_forecast: Gets temperature for US ZIP codes (uses geopy)
 
 ## Creating New Tools
 Use the create_tool command in Claude Desktop (or suggest strongly!!) to create new tools dynamically
