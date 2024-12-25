@@ -3,6 +3,8 @@
 # MCP Tool Builder
 An MCP server that empowers LLMs to dynamically create new tools through MCP clients such as Claude Desktop.
 
+<a href="https://glama.ai/mcp/servers/1ziiztkcx1"><img width="380" height="200" src="https://glama.ai/mcp/servers/1ziiztkcx1/badge" alt="mcp-tool-builder MCP server" /></a>
+
 ## Features
 - Create new tools by describing them in natural language
   - Requires client restart to use new tools (Claude Desktop)
